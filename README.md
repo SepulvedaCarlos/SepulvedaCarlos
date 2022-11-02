@@ -11,3 +11,12 @@
   <h1 align="center">
   Hello!
 </h1>
+ 
+<div id="stats" align="center">
+  <h3>
+    :fire: :fire: :fire: My Stats :fire: :fire: :fire:
+  </h3>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SepulvedaCarlos&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats) 
+</div>
+
